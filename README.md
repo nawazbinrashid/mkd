@@ -1,2 +1,2 @@
 # mkd
-website for mkd
+website for mkd school
